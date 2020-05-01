@@ -5,11 +5,13 @@
 
 Welcome to Docs sample's documentation!
 =======================================
+New documentation file
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   
+   sample_md
 
 
 Indices and tables
